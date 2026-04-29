@@ -21,3 +21,7 @@ theme_override_font_sizes/font_size = 64
 text = "This is a Test"
 horizontal_alignment = 1
 vertical_alignment = 1
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=479616507]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D" unique_id=1335100819]
